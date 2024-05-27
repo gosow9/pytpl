@@ -1,0 +1,12 @@
+README.md
+setup.py
+pytpl/__init__.py
+pytpl/cli.py
+pytpl.egg-info/PKG-INFO
+pytpl.egg-info/SOURCES.txt
+pytpl.egg-info/dependency_links.txt
+pytpl.egg-info/entry_points.txt
+pytpl.egg-info/requires.txt
+pytpl.egg-info/top_level.txt
+pytpl/templates/main.py.j2
+pytpl/templates/setup.py.j2
