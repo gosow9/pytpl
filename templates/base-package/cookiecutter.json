@@ -1,5 +1,6 @@
 {
     "project_name": "Python package",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "author": "Anonymous"
+    "author": "Anonymous",
+    "repo_name":"https://github.com/user/test"
   }
