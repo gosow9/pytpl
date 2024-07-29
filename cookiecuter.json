@@ -1,0 +1,14 @@
+{
+    "templates": {
+        "Click CLI package": {
+            "path": "./templates/click-package",
+            "title": "Click CLI package",
+            "description": "Example CLI package with pytest, mkdocs-material docs and github ci/cd."
+        },
+        "Python Package": {
+            "path": "./templates/base-package",
+            "title": "Python Package",
+            "description": "A simple python package with pytest, mkdocs and gihub CI/CD"
+        }
+    }
+}

@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: pytpl
-Version: 0.1.0
-Requires-Dist: click
-Requires-Dist: jinja2

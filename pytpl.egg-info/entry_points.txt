@@ -1,2 +1,0 @@
-[console_scripts]
-pytpl = pytpl.cli:create_project
